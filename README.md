@@ -18,15 +18,15 @@ Farger kan også være litt "off" og dette er fordi jeg er fargeblind tihi.
 <br>
 
 # Hvordan installere
-Dette er ikke tilgjengelig gjennom Chrome Web Store, dermed må det installeres manuelt gjennom developer mode:
+
+Utvidelsen er ikke på Chrome Web Store (ennå), dermed må det installeres manuelt gjennom developer mode:
 
 ### Steg 1: Last ned zip.filen og unzip denne
 
 [(Trykk meg)]([cs.hioa.no/~ulfu/appolonius/](https://cs.hioa.no/~ulfu/appolonius/))
 
 ### Steg 2: Gå til URL-en chrome://extensions/ 
-
-[(Du kan også trykke meg)](chrome://extensions/)
+Eller trykk på Meny -> More Tools (Flere Verktøy) -> Extensions (Utvidelser).
 
 ### Steg 3: Skru på "developer mode"
 ... eller "utviklermodus" som det er på godt norsk. Dette finnes som oftest i øvre høyre hjørne på de fleste Chromium-nettlesere.
