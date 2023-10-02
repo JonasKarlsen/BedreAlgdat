@@ -10,7 +10,7 @@ custom(`
         background-color: b2b2b2;
     }
     
-    p, p b, p a, p i, td, td i, a i, tr td {
+    p, p b, p a, p i, td, td i, a i, tr td, .innrykk40 {
         font-family: 'Playfair Display', serif;
         line-height: 20px;
         font-size: 13px;
@@ -20,7 +20,7 @@ custom(`
         font-size: 13px;
     }
 
-    p a, td a  {
+    p a, td a, .innrykk40  {
         background-color: gainsboro;
     }
 
@@ -40,6 +40,7 @@ custom(`
         outline-width: 0.3vw;
         color: white;
     }
+
 
     pre span.code {
         color: white; 
