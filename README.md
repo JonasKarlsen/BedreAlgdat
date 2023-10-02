@@ -15,6 +15,8 @@ Farger kan også være litt "off" og dette er fordi jeg er fargeblind tihi.
 <li> Du kan nå faktisk <b> SE </b> koden!
 
 </ul>
+
+<i><b> psst... </b></i> det anbefales å laste ned [AlgDat CenterText](https://chrome.google.com/webstore/detail/algdat-centertext/aniaedfjhidkpigicbkkndnnbckhdbmf?hl=no) inntil jeg legger til sentrering av alt innhold 😎.
 <br>
 
 # Hvordan installere
