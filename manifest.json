@@ -1,0 +1,16 @@
+{
+    "name": "Bedre Algdat",
+    "description": "En mer lesevennlig versjon av Algdat læreboken på Oslomet.",
+    "version": "1.0",
+    "manifest_version": 3,
+    "content_scripts": [
+        {
+            "matches": [
+                "https://www.cs.hioa.no/~ulfu/appolonius/*"
+            ],
+            "js": [
+                "app.js"
+            ]
+        }
+    ]
+}
