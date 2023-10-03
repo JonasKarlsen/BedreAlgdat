@@ -10,7 +10,7 @@ custom(`
         background-color: b2b2b2;
     }
     
-    p, p b, p a, p i, td, td i, a i, tr td, .innrykk40, ul li, ul li code i {
+    p, p b, p a, p i, td, td i, a i, tr td, .innrykk40, ul li, ul li code i, .oppgave tbody tr td span.character {
         font-family: 'Playfair Display', serif;
         line-height: 20px;
         font-size: 13px;
@@ -39,6 +39,10 @@ custom(`
         outline-color: black;
         outline-width: 0.3vw;
         color: white;
+    }
+
+    .oppgave tbody tr td span.character {
+        color: black;
     }
 
 
